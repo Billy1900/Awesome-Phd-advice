@@ -35,4 +35,7 @@ Key words: Begin your search for an advisor by casting as broad of a net as poss
 - [Getting an academic job](https://homes.cs.washington.edu/~mernst/advice/academic-job.html)
 
 ## 4. How to deal with your paper?
-- [如何收集和整理论文（面向CS专业](https://ying-zhang.github.io/misc/2016/we-love-paper/)
+- [如何收集和整理论文（面向CS专业)](https://ying-zhang.github.io/misc/2016/we-love-paper/)
+
+## 5. CS Scholarship
+- [A curated list](https://github.com/chinasaokolo/csGraduateFellowships)
