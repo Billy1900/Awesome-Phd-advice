@@ -36,6 +36,10 @@ Key words: Begin your search for an advisor by casting as broad of a net as poss
 
 ## 4. How to deal with your paper?
 - [如何收集和整理论文（面向CS专业)](https://ying-zhang.github.io/misc/2016/we-love-paper/)
+- [Writing Tips](http://schwert.ssb.rochester.edu/aec510/phd_paper_writing.pdf)
 
 ## 5. CS Scholarship
 - [A curated list](https://github.com/chinasaokolo/csGraduateFellowships)
+
+## 6. Expertise
+- [How to be a good System PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
