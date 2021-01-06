@@ -37,6 +37,7 @@ Key words: Begin your search for an advisor by casting as broad of a net as poss
 ## 4. How to deal with your paper?
 - [如何收集和整理论文（面向CS专业)](https://ying-zhang.github.io/misc/2016/we-love-paper/)
 - [Writing Tips](http://schwert.ssb.rochester.edu/aec510/phd_paper_writing.pdf)
+- [Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=8)
 
 ## 5. CS Scholarship
 - [A curated list](https://github.com/chinasaokolo/csGraduateFellowships)
