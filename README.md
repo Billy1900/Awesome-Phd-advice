@@ -1,5 +1,5 @@
 # Research-approach
-Anything about how can you do well in research (mainly in CS) and how you could be a Ph.D. student
+Anything about how can you do well in research (mainly in CS) and how you could be an excellent Ph.D. student.
 
 ## 0. Other blogs (really recommend)
 - [Advice for researchers and students](https://homes.cs.washington.edu/~mernst/advice/)
