@@ -10,7 +10,7 @@ Key words: Pep talk, straight talk, avoid the cranky talk, keep it short, points
 - [How to send and reply to email (applies for all professional interactions, esp. with professors) by Matt Might](http://matt.might.net/articles/how-to-email/)  
 - [How to get a busy person to respond to your email by Mattan Griffel](https://byrslf.co/how-to-get-a-busy-person-to-respond-to-your-email-52e5d4d69671)
   
-## 2. For undergrads considering doing research/PhD/grad school
+## 2. Advisor/Recommendation Letter/Application
 Key words: Begin your search for an advisor by casting as broad of a net as possible, Try lab rotations in different areas which is increasingly important in an interdisciplinary world,  **scientific ability and mentorship ability**, first and very importantly, never assume just because a faculty member has a job at a good university that he or she is therefore a good scientist, scientist’s most cited papers and the number of citations, any national support, talk with some of his or her current and previous trainees, it is critical that you determine the faculty member’s track record of mentoring success, ask early, don't be shy, follow up, letters of recommendation, personal statement, prior publication
 - [How to Pick a Graduate Advisor by Ben Barres](https://www.cell.com/neuron/fulltext/S0896-6273(13)00907-0)
 - [Advice to Graduate School Recommendation Letter Writers by Shriram Krishnamurthi (Have your LOR writers read this!)](http://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
@@ -30,17 +30,16 @@ Key words: Begin your search for an advisor by casting as broad of a net as poss
 - [**Applying to Ph.D. Programs in Computer Science**](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 - [Advice for Prospective Research Students](https://www.cs.virginia.edu/~evans/advice/prospective.html)
 
-## 3. Tips on Interviewing
+## 3. Interviewing
 - [Interviewing in a Tight Job Market](https://www.cis.upenn.edu/~zives/research/job-article.pdf)
 - [Getting an academic job](https://homes.cs.washington.edu/~mernst/advice/academic-job.html)
 
-## 4. How to deal with your paper?
+## 4. Research ability
 - [如何收集和整理论文（面向CS专业)](https://ying-zhang.github.io/misc/2016/we-love-paper/)
 - [Writing Tips](http://schwert.ssb.rochester.edu/aec510/phd_paper_writing.pdf)
 - [Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=8)
+- [How to be a good System PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
 
 ## 5. CS Scholarship
 - [A curated list](https://github.com/chinasaokolo/csGraduateFellowships)
 
-## 6. Expertise
-- [How to be a good System PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
