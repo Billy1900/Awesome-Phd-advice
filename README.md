@@ -43,3 +43,5 @@ Key words: Begin your search for an advisor by casting as broad of a net as poss
 ## 5. CS Scholarship
 - [A curated list](https://github.com/chinasaokolo/csGraduateFellowships)
 
+## 6. Advisor Review
+- [PI Review - a website for PhD students to review their PIs](https://pi-review.com/)
