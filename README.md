@@ -34,13 +34,14 @@ Key words: Begin your search for an advisor by casting as broad of a net as poss
 - [Interviewing in a Tight Job Market](https://www.cis.upenn.edu/~zives/research/job-article.pdf)
 - [Getting an academic job](https://homes.cs.washington.edu/~mernst/advice/academic-job.html)
 
-## 4. Research ability
+## 4. *Research ability*
 - [如何收集和整理论文（面向CS专业)](https://ying-zhang.github.io/misc/2016/we-love-paper/)
 - [Writing Tips](http://schwert.ssb.rochester.edu/aec510/phd_paper_writing.pdf)
 - [Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=8)
 - [How to be a good System PhD](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
 - [Reflections on my (Machine Learning) PhD Journey](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/)
 - [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
+- [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
 
 ## 5. CS Scholarship
 - [A curated list](https://github.com/chinasaokolo/csGraduateFellowships)
