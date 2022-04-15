@@ -3,6 +3,7 @@ Anything about how can you do well in research (mainly in CS) and how you could 
 
 ## 0. Other blogs (really recommend)
 - [Advice for researchers and students](https://homes.cs.washington.edu/~mernst/advice/)
+- [Phd advice by Paul](https://github.com/pliang279/awesome-phd-advice)
 
 ## 1. Email Etiquette
 Key words: Pep talk, straight talk, avoid the cranky talk, keep it short, points not paragraphs, place action items on top, sorting points by priority, keep it short, format for readability and clarity, make it clear what you want me to do, be reasonable with your request, show me why I should take time to help you
